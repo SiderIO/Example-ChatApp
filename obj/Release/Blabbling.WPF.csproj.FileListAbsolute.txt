@@ -1,0 +1,17 @@
+Z:\Projects\Sider.IO\Blabbling.WPF\bin\Release\End User License Agreement.txt
+Z:\Projects\Sider.IO\Blabbling.WPF\bin\Release\Blabbling.WPF.exe.config
+Z:\Projects\Sider.IO\Blabbling.WPF\bin\Release\Blabbling.WPF.exe
+Z:\Projects\Sider.IO\Blabbling.WPF\bin\Release\Blabbling.WPF.pdb
+Z:\Projects\Sider.IO\Blabbling.WPF\bin\Release\SDP.Net.dll
+Z:\Projects\Sider.IO\Blabbling.WPF\bin\Release\SDP.Net.pdb
+Z:\Projects\Sider.IO\Blabbling.WPF\obj\Release\Blabbling.WPF.csprojResolveAssemblyReference.cache
+Z:\Projects\Sider.IO\Blabbling.WPF\obj\Release\MainWindow.baml
+Z:\Projects\Sider.IO\Blabbling.WPF\obj\Release\MainWindow.g.cs
+Z:\Projects\Sider.IO\Blabbling.WPF\obj\Release\App.g.cs
+Z:\Projects\Sider.IO\Blabbling.WPF\obj\Release\Blabbling.WPF_Content.g.cs
+Z:\Projects\Sider.IO\Blabbling.WPF\obj\Release\Blabbling.WPF_MarkupCompile.cache
+Z:\Projects\Sider.IO\Blabbling.WPF\obj\Release\Blabbling.WPF.g.resources
+Z:\Projects\Sider.IO\Blabbling.WPF\obj\Release\Blabbling.WPF.Properties.Resources.resources
+Z:\Projects\Sider.IO\Blabbling.WPF\obj\Release\Blabbling.WPF.csproj.GenerateResource.Cache
+Z:\Projects\Sider.IO\Blabbling.WPF\obj\Release\Blabbling.WPF.exe
+Z:\Projects\Sider.IO\Blabbling.WPF\obj\Release\Blabbling.WPF.pdb
